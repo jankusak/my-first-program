@@ -1,1 +1,2 @@
 registrace funguje, jde to dobre
+registrace admin uzivatele
